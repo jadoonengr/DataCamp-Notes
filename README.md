@@ -19,3 +19,7 @@ These twenty courses provided are:
 - Course 14. Statistical Thinking in Python Part 1
 - Course 15. Statistical Thinking in Python Part 2
 - Course 16. Supervised Learning with scikit-learn
+- Course 17. Machine Learning with the Experts School Budgets
+- Course 18. Unsupervised Learning in Python
+- Course 19. Deep Learning in Python
+- Course 20. Network Analysis in Python (Part 1)
